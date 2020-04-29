@@ -1,0 +1,3 @@
+This is my linux.txt file
+My Name is Binod
+This is my First Program in Git Bash
